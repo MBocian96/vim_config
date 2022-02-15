@@ -6,3 +6,6 @@ set ignorecase
 set smartcase
 set hlsearch
 colorscheme onehalf
+map k gk
+map j gj
+map <C-a> <esc>ggVG<CR>
